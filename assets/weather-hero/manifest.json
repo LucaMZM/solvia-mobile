@@ -1,0 +1,70 @@
+{
+  "version": "1.0.0",
+  "description": "Manifiesto legal/técnico de assets hero meteo premium de Solvía",
+  "assets": [
+    {
+      "id": "hero-pleasant-sunny",
+      "weatherState": "pleasant_sunny",
+      "artworkKey": "hero_soft_sun_v1",
+      "metadataPath": "assets/weather-hero/pleasant_sunny/metadata.json",
+      "defaultFilePath": "assets/weather-hero/pleasant_sunny/hero_soft_sun_v1.webp",
+      "fallbackMode": "procedural"
+    },
+    {
+      "id": "hero-strong-sun",
+      "weatherState": "strong_sun",
+      "artworkKey": "hero_strong_sun_v1",
+      "metadataPath": "assets/weather-hero/strong_sun/metadata.json",
+      "defaultFilePath": "assets/weather-hero/strong_sun/hero_strong_sun_v1.webp",
+      "fallbackMode": "procedural"
+    },
+    {
+      "id": "hero-soft-cloudy",
+      "weatherState": "soft_cloudy",
+      "artworkKey": "hero_soft_cloud_v1",
+      "metadataPath": "assets/weather-hero/soft_cloudy/metadata.json",
+      "defaultFilePath": "assets/weather-hero/soft_cloudy/hero_soft_cloud_v1.webp",
+      "fallbackMode": "procedural"
+    },
+    {
+      "id": "hero-rainy",
+      "weatherState": "rainy",
+      "artworkKey": "hero_rain_cloud_v1",
+      "metadataPath": "assets/weather-hero/rainy/metadata.json",
+      "defaultFilePath": "assets/weather-hero/rainy/hero_rain_cloud_v1.webp",
+      "fallbackMode": "procedural"
+    },
+    {
+      "id": "hero-windy",
+      "weatherState": "windy",
+      "artworkKey": "hero_wind_flow_v1",
+      "metadataPath": "assets/weather-hero/windy/metadata.json",
+      "defaultFilePath": "assets/weather-hero/windy/hero_wind_flow_v1.webp",
+      "fallbackMode": "procedural"
+    },
+    {
+      "id": "hero-cool-evening",
+      "weatherState": "cool_evening",
+      "artworkKey": "hero_cool_evening_v1",
+      "metadataPath": "assets/weather-hero/cool_evening/metadata.json",
+      "defaultFilePath": "assets/weather-hero/cool_evening/hero_cool_evening_v1.webp",
+      "fallbackMode": "procedural"
+    },
+    {
+      "id": "hero-golden-hour",
+      "weatherState": "golden_hour",
+      "artworkKey": "hero_golden_hour_v1",
+      "metadataPath": "assets/weather-hero/golden_hour/metadata.json",
+      "defaultFilePath": "assets/weather-hero/golden_hour/hero_golden_hour_v1.webp",
+      "fallbackMode": "procedural"
+    },
+    {
+      "id": "hero-night-clear",
+      "weatherState": "night_clear",
+      "artworkKey": "hero_moon_clear_v1",
+      "metadataPath": "assets/weather-hero/night_clear/metadata.json",
+      "defaultFilePath": "assets/weather-hero/night_clear/hero_moon_clear_v1.webp",
+      "fallbackMode": "procedural"
+    }
+  ]
+}

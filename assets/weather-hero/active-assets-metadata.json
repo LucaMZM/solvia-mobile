@@ -1,0 +1,105 @@
+{
+  "version": "1.0.0",
+  "assets": [
+    {
+      "assetName": "sunny.png",
+      "state": "sunny",
+      "source": "Generado específicamente para Solvía con OpenAI image generation / ChatGPT",
+      "author": "Dirección creativa: Luca Mazmishvili; herramienta: OpenAI image generation",
+      "license": "Output generado, sujeto a los términos de OpenAI y a la legislación aplicable; no es una licencia de stock",
+      "attributionRequired": false,
+      "commercialUseAllowed": true,
+      "replacementNotes": "La procedencia fue declarada por el titular del proyecto. No se garantiza exclusividad ni ausencia de similitudes con obras de terceros."
+    },
+    {
+      "assetName": "partly-cloudy.png",
+      "state": "partly-cloudy",
+      "source": "Generado específicamente para Solvía con OpenAI image generation / ChatGPT",
+      "author": "Dirección creativa: Luca Mazmishvili; herramienta: OpenAI image generation",
+      "license": "Output generado, sujeto a los términos de OpenAI y a la legislación aplicable; no es una licencia de stock",
+      "attributionRequired": false,
+      "commercialUseAllowed": true,
+      "replacementNotes": "La procedencia fue declarada por el titular del proyecto. No se garantiza exclusividad ni ausencia de similitudes con obras de terceros."
+    },
+    {
+      "assetName": "cloudy.png",
+      "state": "cloudy",
+      "source": "Generado específicamente para Solvía con OpenAI image generation / ChatGPT",
+      "author": "Dirección creativa: Luca Mazmishvili; herramienta: OpenAI image generation",
+      "license": "Output generado, sujeto a los términos de OpenAI y a la legislación aplicable; no es una licencia de stock",
+      "attributionRequired": false,
+      "commercialUseAllowed": true,
+      "replacementNotes": "La procedencia fue declarada por el titular del proyecto. No se garantiza exclusividad ni ausencia de similitudes con obras de terceros."
+    },
+    {
+      "assetName": "rain.png",
+      "state": "rain",
+      "source": "Generado específicamente para Solvía con OpenAI image generation / ChatGPT",
+      "author": "Dirección creativa: Luca Mazmishvili; herramienta: OpenAI image generation",
+      "license": "Output generado, sujeto a los términos de OpenAI y a la legislación aplicable; no es una licencia de stock",
+      "attributionRequired": false,
+      "commercialUseAllowed": true,
+      "replacementNotes": "La procedencia fue declarada por el titular del proyecto. No se garantiza exclusividad ni ausencia de similitudes con obras de terceros."
+    },
+    {
+      "assetName": "storm.png",
+      "state": "storm",
+      "source": "Generado específicamente para Solvía con OpenAI image generation / ChatGPT",
+      "author": "Dirección creativa: Luca Mazmishvili; herramienta: OpenAI image generation",
+      "license": "Output generado, sujeto a los términos de OpenAI y a la legislación aplicable; no es una licencia de stock",
+      "attributionRequired": false,
+      "commercialUseAllowed": true,
+      "replacementNotes": "La procedencia fue declarada por el titular del proyecto. No se garantiza exclusividad ni ausencia de similitudes con obras de terceros."
+    },
+    {
+      "assetName": "wind.png",
+      "state": "wind",
+      "source": "Generado específicamente para Solvía con OpenAI image generation / ChatGPT",
+      "author": "Dirección creativa: Luca Mazmishvili; herramienta: OpenAI image generation",
+      "license": "Output generado, sujeto a los términos de OpenAI y a la legislación aplicable; no es una licencia de stock",
+      "attributionRequired": false,
+      "commercialUseAllowed": true,
+      "replacementNotes": "La procedencia fue declarada por el titular del proyecto. No se garantiza exclusividad ni ausencia de similitudes con obras de terceros."
+    },
+    {
+      "assetName": "night-clear.png",
+      "state": "night-clear",
+      "source": "Generado específicamente para Solvía con OpenAI image generation / ChatGPT",
+      "author": "Dirección creativa: Luca Mazmishvili; herramienta: OpenAI image generation",
+      "license": "Output generado, sujeto a los términos de OpenAI y a la legislación aplicable; no es una licencia de stock",
+      "attributionRequired": false,
+      "commercialUseAllowed": true,
+      "replacementNotes": "La procedencia fue declarada por el titular del proyecto. No se garantiza exclusividad ni ausencia de similitudes con obras de terceros."
+    },
+    {
+      "assetName": "night-cloudy.png",
+      "state": "night-cloudy",
+      "source": "Generado específicamente para Solvía con OpenAI image generation / ChatGPT",
+      "author": "Dirección creativa: Luca Mazmishvili; herramienta: OpenAI image generation",
+      "license": "Output generado, sujeto a los términos de OpenAI y a la legislación aplicable; no es una licencia de stock",
+      "attributionRequired": false,
+      "commercialUseAllowed": true,
+      "replacementNotes": "La procedencia fue declarada por el titular del proyecto. No se garantiza exclusividad ni ausencia de similitudes con obras de terceros."
+    },
+    {
+      "assetName": "fog.png",
+      "state": "fog",
+      "source": "Generado específicamente para Solvía con OpenAI image generation / ChatGPT",
+      "author": "Dirección creativa: Luca Mazmishvili; herramienta: OpenAI image generation",
+      "license": "Output generado, sujeto a los términos de OpenAI y a la legislación aplicable; no es una licencia de stock",
+      "attributionRequired": false,
+      "commercialUseAllowed": true,
+      "replacementNotes": "La procedencia fue declarada por el titular del proyecto. No se garantiza exclusividad ni ausencia de similitudes con obras de terceros."
+    },
+    {
+      "assetName": "snow.png",
+      "state": "snow",
+      "source": "Generado específicamente para Solvía con OpenAI image generation / ChatGPT",
+      "author": "Dirección creativa: Luca Mazmishvili; herramienta: OpenAI image generation",
+      "license": "Output generado, sujeto a los términos de OpenAI y a la legislación aplicable; no es una licencia de stock",
+      "attributionRequired": false,
+      "commercialUseAllowed": true,
+      "replacementNotes": "La procedencia fue declarada por el titular del proyecto. No se garantiza exclusividad ni ausencia de similitudes con obras de terceros."
+    }
+  ]
+}
