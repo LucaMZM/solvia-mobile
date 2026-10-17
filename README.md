@@ -2,6 +2,15 @@
 
 **El tiempo, traducido a decisiones.**
 
+<p align="center">
+  <img src="assets/weather-hero/partly-cloudy.png" alt="Sol entre nubes" width="160" />
+  <img src="assets/weather-hero/rain.png" alt="Lluvia" width="160" />
+  <img src="assets/weather-hero/wind.png" alt="Viento" width="160" />
+  <img src="assets/weather-hero/night-clear.png" alt="Noche despejada" width="160" />
+</p>
+
+<p align="center"><sub>Weather artwork used in Solvía. These are not app screenshots.</sub></p>
+
 Cross-platform weather decision assistant built with React Native, Expo and TypeScript. Solvía turns current conditions and forecasts into concise guidance for going out, choosing clothes and planning a trip. The product interface is in Spanish.
 
 > Portfolio source by Luca Mazmishvili. Solvía is a Mazmi Systems project. This public repository is **not** an open-source licence; see [LICENSE](LICENSE).
